@@ -1,4 +1,4 @@
-## Full-Stack Software Engineer
+## Hi, I'm Austin. A Software Engineer.
 
 ### 🎓 Education
 * **Sonoma State University** - Bachelor's of Arts
