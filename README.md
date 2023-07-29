@@ -1,4 +1,4 @@
-## Full-Stack Software Engineer | Sonoma State University & Springboard Graduate
+## Full-Stack Software Engineer
 
 ### 🎓 Education
 * **Sonoma State University** - Bachelor's of Arts
