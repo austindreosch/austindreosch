@@ -3,11 +3,11 @@
 ## Full-Stack Software Engineer | Sonoma State University & Springboard Graduate
 
 ### 🎓 Education
-* **Sonoma State University** - Bachelor's degree in Computer Science
-* **Springboard** - Graduate in Data Science
+* **Sonoma State University** - Bachelor's of Arts
+* **Springboard** - Graduate in Software Engineering
 
 ### 🚀 Technical Skills
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,express,postgresql,mongodb,redux,tailwindcss,python,flask,sqlalchemy,css,csharp,unity,auth0,stripe,nextjs,sql,html,jquery,bootstrap,jest,jasmine,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cs,nodejs,react,nextjs,express,postgresql,mongodb,redux,tailwindcss,flask,css,unity,html,jquery,bootstrap,jest,git,stackoverflow,vercel,vscode,blender,bootstrap&perline=12)](https://skillicons.dev)
 
 ### 🔭 I’m currently working on ...
 Full-stack development projects using JavaScript, Python, and C#.
@@ -21,7 +21,6 @@ I'm a full-stack software engineer specializing in JavaScript, Python, and C#. A
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,cs,nodejs,react,nextjs,express,postgresql,mongodb,redux,tailwindcss,flask,css,unity,html,jquery,bootstrap,jest,git,stackoverflow,vercel,vscode,blender,bootstrap&perline=12)](https://skillicons.dev)
 
 <!--
 **austindreosch/austindreosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
