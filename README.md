@@ -4,7 +4,7 @@
 * **Sonoma State University** - Bachelor's of Arts
 * **Springboard** - Graduate in Software Engineering
 
-### 🚀 Technical Skills
+### 🚀 Current Tool Specializations
 [![My Skills](https://skillicons.dev/icons?i=js,py,cs,nodejs,react,nextjs,express,postgresql,mongodb,redux,tailwindcss,flask,css,unity,html,jquery,bootstrap,jest,git,stackoverflow,vercel,vscode,blender,bootstrap&perline=12)](https://skillicons.dev)
 
 * JavaScript full-stack development with Node.js, React, Express, PostgreSQL, Redux, Tailwind CSS
