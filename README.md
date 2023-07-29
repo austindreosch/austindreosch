@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,cs,nodejs,react,nextjs,express,postgresql,mongodb,redux,tailwindcss,flask,css,unity,html,jquery,bootstrap,jest,git,stackoverflow,vercel,vscode,blender,bootstrap&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cs,nodejs,react,nextjs,express,postgresql,mongodb,redux,tailwindcss,flask,css,unity,html,jquery,bootstrap,jest,git,stackoverflow,vercel,vscode,blender,bootstrap&perline=12)](https://skillicons.dev)
 
 <!--
 **austindreosch/austindreosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
