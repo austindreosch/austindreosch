@@ -1,7 +1,7 @@
 ## Hi, I'm Austin. Software Engineer.
 
 ### 🎓 Education
-* **Sonoma State University** - Bachelor's of Arts
+* **Sonoma State University** - Bachelor's Graduate
 * **Springboard** - Graduate in Software Engineering
 
 ### 🚀 Current Tool Specializations
