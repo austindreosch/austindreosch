@@ -1,4 +1,4 @@
-## Hi, I'm Austin. Software Engineer.
+## Austin Dreosch - Software Engineer
 
 ### 🎓 Education
 * **Sonoma State University** - Bachelor's Graduate
