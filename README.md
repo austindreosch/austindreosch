@@ -12,4 +12,4 @@
 * C# development with the Unity framework.
 * A suite of auxiliary tools like: Next.js, SQL, HTML, CSS, Tailwind CSS, jQuery, auth0, MongoDB, Stripe, Bootstrap, Jest, Jasmine, Terminal + Git, and a focus on Data Structures & Algorithms
 
-![Projects]([URL_to_image](https://i.imgur.com/CusiSQe.jpg)https://i.imgur.com/CusiSQe.jpg)
+![Projects]([URL_to_image](https://i.imgur.com/CusiSQe.jpg)
