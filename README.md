@@ -1,5 +1,3 @@
-## Austin Dreosch - Software Engineer
-
 ### 🎓 Education
 * **Sonoma State University** - Bachelor's Graduate
 * **Springboard** - Graduate in Software Engineering
