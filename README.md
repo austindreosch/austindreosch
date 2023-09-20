@@ -1,5 +1,5 @@
 ### 🎓 Education
-* **Sonoma State University** - Bachelor's Graduate
+* **Sonoma State University** - Bachelor's of Arts
 * **Springboard** - Graduate in Software Engineering
 
 ### 🚀 Current Tool Specializations
