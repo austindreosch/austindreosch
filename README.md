@@ -9,8 +9,3 @@
 * Python full-stack development with Flask, PostgreSQL, SQLAlchemy, Bcrypt, CSS
 * C# development with the Unity framework.
 * A suite of auxiliary tools like: Next.js, SQL, HTML, CSS, Tailwind CSS, jQuery, auth0, MongoDB, Stripe, Bootstrap, Jest, Jasmine, Terminal + Git, and a focus on Data Structures & Algorithms
-
-### 📰 Portfolio Projects
-
-#### &nbsp; [Playbook AI](https://github.com/austindreosch/playbook) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Quillwind](https://github.com/austindreosch/quillwind) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Prep Kitchen](https://github.com/austindreosch/prepkitchen) 
-![Projects](https://i.imgur.com/68yo73f.jpg)
